@@ -56,12 +56,3 @@ I worked as an L2 support for Bank of America. I was responsible for managing th
 
 ### **ANNA UNIVERSITY**
 ### B.E - Electronics and Communication Engineering (2008- 2012)
-
----
-
-## How to reach me
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/lakshmibalan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/lakshmib24"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lakshmibk09@gmail.com?subject=Hello%20Lakshmi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
